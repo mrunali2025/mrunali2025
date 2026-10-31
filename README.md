@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, My Name is  Mrunali Nimje 
 
-<!--
-**mrunali2025/mrunali2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Computer Science Undergraduate | 2027 Graduate
 
-Here are some ideas to get you started:
+I'm passionate about software development, problem-solving, and building AI-powered applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Technical Skills
+- **Programming:** Java, JavaScript, SQL
+- **Core CS:** DSA, OOP, DBMS, Operating Systems
+- **Web Development:** HTML, CSS, Next.js
+- **Database:** MySQL
+- **AI Tools:** Google Gemini, ChatGPT
+- **Tools:** Git, GitHub
+
+##  Projects
+
+### CloudMan – AI-Assisted Cloud Infrastructure Platform
+- A platform designed to simplify cloud infrastructure planning using natural-language requirements.
+- Contributed to frontend development and backend API integration.
+- Explores AI-assisted infrastructure planning and validation.
+
+### Banking Management System
+- Developed using Java Spring Boot and MySQL.
+- Includes deposits, withdrawals, balance inquiry, mini statements, and PIN management.
+
+## 🌱 Currently Learning
+- Data Structures and Algorithms
+- Advanced Java
+- AI-assisted Software Development
+
+##  Career Goal
+Aspiring Software Development Engineer interested in solving real-world problems and building useful software solutions.
