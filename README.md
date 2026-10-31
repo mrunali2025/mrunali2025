@@ -4,7 +4,7 @@
 
 I'm passionate about software development, problem-solving, and building AI-powered applications.
 
-## 💻 Technical Skills
+##  Technical Skills
 - **Programming:** Java, JavaScript, SQL
 - **Core CS:** DSA, OOP, DBMS, Operating Systems
 - **Web Development:** HTML, CSS, Next.js
@@ -23,7 +23,7 @@ I'm passionate about software development, problem-solving, and building AI-powe
 - Developed using Java Spring Boot and MySQL.
 - Includes deposits, withdrawals, balance inquiry, mini statements, and PIN management.
 
-## 🌱 Currently Learning
+##  Currently Learning
 - Data Structures and Algorithms
 - Advanced Java
 - AI-assisted Software Development
